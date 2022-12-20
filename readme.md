@@ -41,5 +41,5 @@ In order to run either the tests or the service, you will need to provide the be
 Since this value is a secret, I used Visual Studio’s built-in User Secrets feature to store and read the secrets. The secret will need to be set for whichever application you run, the IntegrationTests or the TwitterStats service. 
 Use the following image as an example of how to access those.
 
-![Accessing User Secrets](https://user-images.githubusercontent.com/1778167/208584787-84fc60fe-370b-47d5-9107-917a4a2db9d5.png)
+![Accessing User Secrets](https://user-images.githubusercontent.com/1778167/208727048-0ed13592-f1ad-45ae-81cf-908f5c425634.png)
 
